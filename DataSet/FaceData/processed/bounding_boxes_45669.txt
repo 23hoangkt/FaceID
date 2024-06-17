@@ -1,0 +1,10 @@
+Dataset/FaceData/processed\CLone\images (24).png 72 5 127 70
+Dataset/FaceData/processed\CLone\images (25).png 40 25 138 152
+Dataset/FaceData/processed\CLone\images (26).png 24 17 152 182
+Dataset/FaceData/processed\CLone\images (27).png 9 0 164 148
+Dataset/FaceData/processed\CLone\images (28).png 20 14 159 177
+Dataset/FaceData/processed\CLone\images (29).png 49 26 139 139
+Dataset/FaceData/processed\CLone\images (30).png 26 21 139 154
+Dataset/FaceData/processed\CLone\images (31).png 20 0 155 151
+Dataset/FaceData/processed\CLone\images (32).png 58 58 128 141
+Dataset/FaceData/processed\CLone\images (33).png 68 101 116 153

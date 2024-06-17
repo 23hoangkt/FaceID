@@ -1,0 +1,14 @@
+Dataset/FaceData/processed\CLone\a.png 87 16 173 134
+Dataset/FaceData/processed\CLone\adad.png 115 2 209 117
+Dataset/FaceData/processed\CLone\ahodoao.png 56 47 120 121
+Dataset/FaceData/processed\CLone\annan.png 76 16 172 132
+Dataset/FaceData/processed\CLone\anodna.png 23 0 114 101
+Dataset/FaceData/processed\CLone\aodano.png 70 62 141 149
+Dataset/FaceData/processed\CLone\aohdo.png 0 11 125 172
+Dataset/FaceData/processed\CLone\b.png 49 38 148 163
+Dataset/FaceData/processed\CLone\c.png 27 25 144 162
+Dataset/FaceData/processed\CLone\h.png 0 0 160 173
+Dataset/FaceData/processed\CLone\image.png 0 0 197 188
+Dataset/FaceData/processed\CLone\oaoa.png 56 26 171 160
+Dataset/FaceData/processed\CLone\sohoha.png 48 63 114 138
+Dataset/FaceData/processed\CLone\z.png 95 20 173 114
