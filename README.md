@@ -3,12 +3,11 @@
 #Cài đặt môi trường chạy venv 
 
 <br>
-pip install -r requirement.txt
-```
+```pip install -r requirement.txt```
+
 #Chạy 
 python\src
-python liveness.py --model liveness.model.h5 --le le.pickle --detector face_detector
-```
+```python liveness.py --model liveness.model.h5 --le le.pickle --detector face_detector```
 
 <br><br>
 
