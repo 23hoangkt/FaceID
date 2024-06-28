@@ -1,7 +1,7 @@
 # Dowload Models nhận dạng khuôn mặt tại 
 https://drive.google.com/drive/folders/11awWC9KeSZyqTL9ivn-YmxgGAvPpyuw0?usp=sharing
 # Cài đặt môi trường chạy venv 
-```pip install -r requirement.txt```
+```pip install -r requirements.txt```
 # Chạy 
 ```python\src```
 ```python liveness.py --model liveness.model.h5 --le le.pickle --detector face_detector```
