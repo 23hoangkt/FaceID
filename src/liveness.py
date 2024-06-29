@@ -74,7 +74,7 @@ le = pickle.loads(open(le_path, "rb").read())
 print("[INFO] Label encoder loaded successfully.")
 
 print("[INFO] starting video stream...")
-vs = VideoStream(src=0).start()
+vs = VideoStream(src=1).start()
 time.sleep(2.0)
 
 MINSIZE = 20
@@ -82,8 +82,11 @@ THRESHOLD = [0.6, 0.7, 0.7]
 FACTOR = 0.709
 IMAGE_SIZE = 182
 INPUT_IMAGE_SIZE = 160
-CLASSIFIER_PATH = 'C:/Users/hoang/Desktop/FaceID/models/facemodel.pkl'
-FACENET_MODEL_PATH = 'C:/Users/hoang/Desktop/FaceID/models/20180402-114759.pb'
+# CLASSIFIER_PATH = 'C:/Users/hoang/Desktop/FaceID/models/facemodel.pkl'
+# FACENET_MODEL_PATH = 'C:/Users/hoang/Desktop/FaceID/models/20180402-114759.pb'
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CLASSIFIER_PATH = os.path.join(BASE_DIR, 'models', 'facemodel.pkl')
+FACENET_MODEL_PATH = os.path.join(BASE_DIR, 'models', '20180402-114759.pb')
 
 # Load The Custom Classifier
 with open(CLASSIFIER_PATH, 'rb') as file:
@@ -151,6 +154,9 @@ while True:
             endY = min(h, endY)
 
             face = frame[startY:endY, startX:endX]
+            if face.size == 0:
+                print("No human")
+                continue
             face = cv2.resize(face, (32, 32))
             face = face.astype("float") / 255.0
             face_reshaped = face.reshape(1, 32, 32, 3)  # Reshape to match model input shape
