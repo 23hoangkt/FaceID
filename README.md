@@ -5,6 +5,7 @@ https://drive.google.com/drive/folders/11awWC9KeSZyqTL9ivn-YmxgGAvPpyuw0?usp=sha
 # Chạy 
 ```python\src```
 ```python liveness.py --model liveness.model.h5 --le le.pickle --detector face_detector```
+```python3 liveness.py --model liveness.model.h5 --le le.pickle --detector face_detector```
 # Train lại với bộ dữ liệu mới
 Tạo bộ ảnh mới, lưu tên là file thư mục chứ ảnh người đó tại ```FaceID\DataSet\FaceData\raw```
 
