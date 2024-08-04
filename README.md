@@ -1,6 +1,7 @@
 # Tổng quan 
 FaceID bao gồm Face Recognition và Liveness Detection 
-![Image](https://www.google.com/imgres?q=faceid&imgurl=https%3A%2F%2Fcdn11.dienmaycholon.vn%2Ffilewebdmclnew%2Fpublic%2Fuserupload%2Ffiles%2Fiphone-mat-faceid.png&imgrefurl=https%3A%2F%2Fdienmaycholon.com%2Fkinh-nghiem-mua-sam%2Fiphone-mat-face-id-la-gi-co-nen-mua-iphone-mat-face-id-khong&docid=2ZjQhM14RBGBdM&tbnid=Q9LO1SgBUbj1vM&vet=12ahUKEwiiiI6R4tqHAxWChlYBHSdSKGUQM3oECB0QAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwiiiI6R4tqHAxWChlYBHSdSKGUQM3oECB0QAA)
+![Example Image](img.jpg)
+
 
 FaceID dựa trên FaceNet và MTCNN
 Liveness Detection dựa trên OpenCV và DeepLearning 
