@@ -2,13 +2,13 @@
 FaceID bao gồm Face Recognition và Liveness Detection 
 
 
-          ![Example Image](img.jpg)
+![Example Image](img.jpg)
 
 
 FaceID dựa trên FaceNet và MTCNN
 
 
-          ![Example Image](img1.jpg)
+![Example Image](img1.jpg)
 
 
 
@@ -16,7 +16,7 @@ Liveness Detection dựa trên OpenCV và DeepLearning
 
 
 
-          ![Example Image](img2.jpg)
+![Example Image](img2.jpg)
 
 
 
