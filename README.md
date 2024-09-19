@@ -1,14 +1,18 @@
 <p align="center">
-  <img src="img.jpg" alt="FaceID bao gồm Face Recognition và Liveness Detection" width="400"/>
+  <b>FaceID bao gồm Face Recognition và Liveness Detection</b><br>
+  <img src="img.jpg" alt="Mô tả hình ảnh 1" width="400"/>
 </p>
 
 <p align="center">
-  <img src="img1.jpg" alt="FaceID dựa trên FaceNet và MTCNN" width="400"/>
+  <b>FaceID dựa trên FaceNet và MTCNN</b><br>
+  <img src="img1.jpg" alt="Mô tả hình ảnh 2" width="400"/>
 </p>
 
 <p align="center">
-  <img src="img2.jpg" alt="Liveness Detection dựa trên OpenCV và DeepLearning" width="400"/>
+  <b>Liveness Detection dựa trên OpenCV và DeepLearning</b><br>
+  <img src="img2.jpg" alt="Mô tả hình ảnh 3" width="400"/>
 </p>
+
 
 
 
