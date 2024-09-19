@@ -1,22 +1,10 @@
 # Tổng quan hệ thống
 <p align="center">
   <b>FaceID bao gồm Face Recognition và Liveness Detection</b><br>
-  <img src="img.jpg" alt="Mô tả hình ảnh 1" width="400"/>
+  <img src="Screenshot 2024-09-20 001911.png" alt="Mô tả hình ảnh 1" width="400"/>
 </p>
 
-<p align="center">
-  <b>FaceID dựa trên FaceNet và MTCNN</b><br>
-  <img src="img1.jpg" alt="Mô tả hình ảnh 2" width="400"/>
 </p>
-
-<p align="center">
-  <b>Liveness Detection dựa trên OpenCV và DeepLearning</b><br>
-  <img src="img2.jpg" alt="Mô tả hình ảnh 3" width="400"/>
-</p>
-
-
-
-
 
 # Dowload Models nhận dạng khuôn mặt tại 
 https://drive.google.com/drive/folders/11awWC9KeSZyqTL9ivn-YmxgGAvPpyuw0?usp=sharing
