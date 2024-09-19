@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="link_của_hình_ảnh_2" alt="FaceID dựa trên FaceNet và MTCNN" width="400"/>
+  <img src="img1.jpg" alt="FaceID dựa trên FaceNet và MTCNN" width="400"/>
 </p>
 
 <p align="center">
-  <img src="link_của_hình_ảnh_3" alt="Liveness Detection dựa trên OpenCV và DeepLearning" width="400"/>
+  <img src="img2.jpg" alt="Liveness Detection dựa trên OpenCV và DeepLearning" width="400"/>
 </p>
 
 
