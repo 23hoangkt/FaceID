@@ -1,22 +1,14 @@
-# Tổng quan 
-FaceID bao gồm Face Recognition và Liveness Detection 
+<p align="center">
+  <img src="img1" alt="FaceID bao gồm Face Recognition và Liveness Detection" width="400"/>
+</p>
 
+<p align="center">
+  <img src="link_của_hình_ảnh_2" alt="FaceID dựa trên FaceNet và MTCNN" width="400"/>
+</p>
 
-![Example Image](img.jpg)
-
-
-FaceID dựa trên FaceNet và MTCNN
-
-
-![Example Image](img1.jpg)
-
-
-
-Liveness Detection dựa trên OpenCV và DeepLearning 
-
-
-
-![Example Image](img2.jpg)
+<p align="center">
+  <img src="link_của_hình_ảnh_3" alt="Liveness Detection dựa trên OpenCV và DeepLearning" width="400"/>
+</p>
 
 
 
