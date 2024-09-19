@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img1.jpg" alt="FaceID bao gồm Face Recognition và Liveness Detection" width="400"/>
+  <img src="img.jpg" alt="FaceID bao gồm Face Recognition và Liveness Detection" width="400"/>
 </p>
 
 <p align="center">
